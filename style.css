@@ -59,3 +59,6 @@ a {
 .topNavBar .logo .card {
   color: #9a9da2;
 }
+.banner {
+  background-image: url(./wall.jpg);
+}
